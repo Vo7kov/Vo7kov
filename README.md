@@ -1,7 +1,4 @@
 О себе
-Технологии
-Инструменты
-Таблица с курсами
 Соц. Сети
 
 ## Technologies
@@ -113,8 +110,6 @@
     />
   </a>
 </div>
-
-</td><td valign="top" width="50%">
 </td></tr></table>
 
 ## Software
@@ -173,3 +168,5 @@
 | **Course name**                    | **Date**                  |
 |:----------------------------------:|:-------------------------:|
 | Mate Academy FullStack development | 21.12.2022 - Current Time |
+
+<br />
