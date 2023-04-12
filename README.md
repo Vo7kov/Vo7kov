@@ -1,8 +1,15 @@
-О себе
-Соц. Сети
+# **Hi there, I'm Jegor!**
 
-## Technologies
-<table><tr><td valign="top" width="50%">
+## **About me**
+
+I am a beginning web-developer who takes more of a leadership and facilitating position than someone who oversees, but this doesn't mean, that I don't listen to anyone, on the contrary, I am always open to criticism from more experienced people. I'm also very stubborn, as for a beginning specialist. I am always open to new challenges, because it only fuels my curiosity. I used to want to be a web designer, but at some point I wanted to feel it what I drew, which is why I chose web development!
+
+- Contact: [![Telegram Badge](https://img.shields.io/badge/-gosyav-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/gosyav) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:drainys1234@gmail.com)
+
+<br/>
+
+## **Technologies**
+<table><tr><td valign="top" width="33%">
 
 ### Frontend
 <div align="left">
@@ -51,17 +58,6 @@
     />
   </a>
   <a
-    href="https://www.linux.org/"
-    target="_blank"
-  >
-    <img
-      style="margin: 10px"
-      src="https://profilinator.rishav.dev/skills-assets/linux-original.svg"
-      alt="Linux"
-      height="50"
-    />
-  </a>
-  <a
     href="http://getbem.com/"
     target="_blank"
   >
@@ -74,9 +70,9 @@
   </a>
 </div>
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="33%">
 
-### Backend
+### Other
 <div align="left">
   <a
     href="https://github.com/Vo7kov"
@@ -85,17 +81,6 @@
     <img
       style="margin: 10px"
       src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git"
-      height="50"
-    />
-  </a>
-  <a
-    href="https://www.gnu.org/software/bash/"
-    target="_blank"
-  >
-    <img
-      style="margin: 10px"
-      src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg"
-      alt="Bash"
       height="50"
     />
   </a>
@@ -110,9 +95,17 @@
     />
   </a>
 </div>
+</td><td valign="top" width="33%">
+
+### DevOps
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
+
 </td></tr></table>
 
-## Software
+<br/>
+
+## **Software**
 
 ### Creation
 <div align="left">
@@ -161,12 +154,13 @@
   </a>
 </div>
 
-<br/>
+<br />
 
-## Courses
+
+## **Finished courses**
 
 | **Course name**                    | **Date**                  |
 |:----------------------------------:|:-------------------------:|
-| Mate Academy FullStack development | 21.12.2022 - Current Time |
+| Mate Academy FullStack javascript web-development | 21.12.2022 - Current Time |
 
 <br />
